@@ -4,8 +4,7 @@ version = "0.2.0"
 authors = ["Masaki Hara <ackie.h.gmai@gmail.com>"]
 
 description = "ASN.1 library for Rust"
-documentation = "https://qnighy.github.io/yasna.rs"
-homepage = "https://github.com/qnighy/yasna.rs"
+documentation = "https://docs.rs/yasna"
 repository = "https://github.com/qnighy/yasna.rs"
 readme = "README.md"
 keywords = ["parser", "serialization"]
